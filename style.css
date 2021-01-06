@@ -44,10 +44,7 @@ section{
     height: 500px;
     padding-bottom: 150px;
 }
-.top-area{
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-}
+
 .middle-right-content h2{
      font-size: 50px;
      font-weight: 600;
@@ -65,25 +62,17 @@ section{
 
 .resume-button{
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 400;
     background: linear-gradient(to right,#ff6e55,tomato);
     color: #fff;
     padding: 10px 25px;
     border-radius: 7px;
 }
-.middle-area{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
+
 .orange-highlight{
     color: orange;
 }
-.bottom-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
-}
+
 
 .tripol-box{
     width: 25%;
